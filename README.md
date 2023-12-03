@@ -17,7 +17,7 @@ Olá, me chamo Junior e tenho 18 anos. Estou cursando Análise e Desenvolvimento
 
 ## Contribuições
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=junioom&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=junioom&repo=desafio-felipao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## Conecte-se comigo
